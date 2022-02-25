@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sunnydave
-- 👀 I’m interested in using technology solve interesting business problems
+- 👀 I’m interested in using technology solve interesting business problems at scale.
 - 🌱 I’m currently learning distributed systems architecture design and Go.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me on my email sunny.dave@nerdyandnoisy.com
 
 <!---
